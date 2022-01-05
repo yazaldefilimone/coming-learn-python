@@ -19,3 +19,7 @@ print(len(umaListaQualquer));# isto retorna a quantidade de intem da lista
 
 #para acessar algum elemento da lista.
 print(umaListaQualquer[0]); # ola porque o python inicia a contagem do 0 nao do 1.
+
+
+print(umaListaQualquer[-1])#[] que e o ultimo elemento da lista 
+#e passar um numero negativi ele pega de tras pra frente.
