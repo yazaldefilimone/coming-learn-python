@@ -23,3 +23,8 @@ print(umaListaQualquer[0]); # ola porque o python inicia a contagem do 0 nao do 
 
 print(umaListaQualquer[-1])#[] que e o ultimo elemento da lista 
 #e passar um numero negativi ele pega de tras pra frente.
+
+
+#podemos acessar uma fatia da lista .
+
+print(umaListaQualquer[0:3])# vai retornar todos os elementos da posicao 0 ate 2 menos o 3 .
