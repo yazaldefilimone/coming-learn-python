@@ -12,6 +12,6 @@ def verificaAIdadeDoUsuario(idade3, nome):
     else:
         return f'voce se chama { nome  } e é maior de idade { idade3 }'
 
-
+#aqui eu chamo a funcao com os paamentros esperandos a idade3, e o nome
 print(verificaAIdadeDoUsuario(18, 'yazalde'));
 
