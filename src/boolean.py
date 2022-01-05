@@ -13,5 +13,10 @@ print(False and False)
 print(True or True)
 print(True or False)
 print(False or False)
+
+# podemos negar uma valor boolean ele se torna o valor oposto.
+
+print(not True) #False.
+print(not False) #True
 # pode percever que os primiros caracteres sao e masculino.
 
