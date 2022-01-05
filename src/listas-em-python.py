@@ -18,4 +18,4 @@ print(len(umaListaQualquer));# isto retorna a quantidade de intem da lista
 
 
 #para acessar algum elemento da lista.
-rint(umaListaQualquer[0]); # ola porque o python inicia a contagem do 0 nao do 1.
+print(umaListaQualquer[0]); # ola porque o python inicia a contagem do 0 nao do 1.
