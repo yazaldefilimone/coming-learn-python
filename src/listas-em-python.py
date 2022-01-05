@@ -28,3 +28,7 @@ print(umaListaQualquer[-1])#[] que e o ultimo elemento da lista
 #podemos acessar uma fatia da lista .
 
 print(umaListaQualquer[0:3])# vai retornar todos os elementos da posicao 0 ate 2 menos o 3 .
+
+listaComRange = list(range(1, 18)); # a funcao range retorna numeros aleatorios
+
+print(listaComRange);# vai retornar uma lista de 1 a 17 menos o 18
